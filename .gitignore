@@ -1,0 +1,10 @@
+# Caché y archivos temporales de Visual Studio
+.vs/
+*.ipch
+*.db
+
+# Archivos de video pesados
+*.mp4
+*.avi
+*.mov
+.vs/

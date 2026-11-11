@@ -1,0 +1,25 @@
+﻿  20262.cpp
+C:\Users\patit\Documents\Proyecto_Final\Proyecto_Final\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+  (compilando archivo de origen "20262.cpp")
+  
+C:\Users\patit\Documents\Proyecto_Final\Proyecto_Final\include\mesh.h(88,50): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+  (compilando archivo de origen "20262.cpp")
+  
+C:\Users\patit\Documents\Proyecto_Final\Proyecto_Final\include\meshAnim.h(116,50): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+  (compilando archivo de origen "20262.cpp")
+  
+C:\Users\patit\Documents\Proyecto_Final\Proyecto_Final\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "20262.cpp")
+  
+C:\Users\patit\Documents\Proyecto_Final\Proyecto_Final\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "20262.cpp")
+  
+C:\Users\patit\Documents\Proyecto_Final\Proyecto_Final\20262.cpp(671,27): warning C4244: '=': conversión de 'Uint64' a 'double'; posible pérdida de datos
+C:\Users\patit\Documents\Proyecto_Final\Proyecto_Final\20262.cpp(1836,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\patit\Documents\Proyecto_Final\Proyecto_Final\20262.cpp(1837,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\patit\Documents\Proyecto_Final\Proyecto_Final\20262.cpp(1844,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\patit\Documents\Proyecto_Final\Proyecto_Final\20262.cpp(1845,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\patit\Documents\Proyecto_Final\Proyecto_Final\20262.cpp(1847,39): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\patit\Documents\Proyecto_Final\Proyecto_Final\20262.cpp(1847,30): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\patit\Documents\Proyecto_Final\Proyecto_Final\20262.cpp(1852,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Proyecto_Final.vcxproj -> C:\Users\patit\Documents\Proyecto_Final\x64\Debug\Proyecto_Final.exe

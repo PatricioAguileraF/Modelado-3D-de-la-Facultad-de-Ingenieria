@@ -1,0 +1,32 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 14.05.2026 08:06:53
+
+mtllib TechoPrincipal.mtl
+
+#
+# object TechoPrincipal
+#
+
+v  -3.0000 4.0500 25.0000
+v  3.0000 4.0500 25.0000
+v  3.0000 4.0500 -25.0000
+v  -3.0000 4.0500 -25.0000
+# 4 vertices
+
+vn 0.0000 1.0000 -0.0000
+# 1 vertex normals
+
+vt -0.1000 -0.0000 0.5000
+vt 1.1000 -0.0000 0.5000
+vt 1.1000 1.0000 0.5000
+vt -0.1000 1.0000 0.5000
+# 4 texture coords
+
+o TechoPrincipal
+g TechoPrincipal
+usemtl Techo
+s 1
+f 1/1/1 2/2/1 3/3/1 
+f 3/3/1 4/4/1 1/1/1 
+# 2 faces
+
